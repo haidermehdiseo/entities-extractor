@@ -3,4 +3,4 @@ spacy==3.5.2
 thinc==8.1.10
 numpy==1.23.5
 cython==0.29.36
-https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0.tar.gz
+setuptools==65.5.0
