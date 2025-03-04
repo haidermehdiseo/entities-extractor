@@ -2,7 +2,7 @@ import streamlit as st
 import spacy
 
 # Define the NLP model name
-MODEL_NAME = "en_core_web_lg"  # High-accuracy NLP model
+MODEL_NAME = "en_core_web_lg"
 
 # Try loading the model
 try:
